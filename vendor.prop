@@ -8,6 +8,6 @@ ro.surface_flinger.set_touch_timer_ms=300
 # USB
 vendor.usb.product_string=OnePlus 9 Pro 5G
 
-ro.product.marketname=OnePlus 9 Pro
-ro.infinity.soc=Snapdragon 888
-ro.infinity.camera=50MP + 48MP + 8MP
+ro.product.marketname="OnePlus 9 Pro"
+ro.infinity.soc="Snapdragon 888"
+ro.infinity.camera="50MP + 48MP + 8MP"
